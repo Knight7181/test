@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prem Kumar
-Skills: HTML, Python, Flask, REST
-Email: tr5531803@gmail.com
-{{/user}}
